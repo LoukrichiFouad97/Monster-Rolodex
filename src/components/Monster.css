@@ -1,0 +1,8 @@
+.Monster {
+	transition: all 0.3s ease-in-out;
+}
+
+.Monster:hover {
+  transform: scale(1.05);
+  cursor: pointer;
+}
